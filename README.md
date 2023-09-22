@@ -1,2 +1,2 @@
 # Machine Learning Projects
- Projects related to ML course I had in SBU university.
+ Academic Projects related to ML course I had in SBU university.
