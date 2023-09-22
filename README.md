@@ -1,2 +1,2 @@
 # Machine Leraning Course
- Homework related to ML course I had in SBU university.
+ Projects related to ML course I had in SBU university.
